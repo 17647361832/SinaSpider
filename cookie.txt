@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+passport.weibo.com	FALSE	/	FALSE		login	2539a3746215f32d05c8100e941e1569
+weibo.com	FALSE	/	FALSE		Ugrow-G0	57484c7c1ded49566c905773d5d00f82
