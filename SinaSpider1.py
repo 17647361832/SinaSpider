@@ -71,7 +71,7 @@ result = ['4177358472884173', '4177265477042502', '4093557864671360', '417728710
 
 import xlwt as xlwt
 
-dataxls=xlwt.Workbook()
+dataxls=xlwt.Workbook()         # ...
 sum = 0
 table_sum = 1
 sum_total = 0
